@@ -1,76 +1,84 @@
-# CUIMS & Chandigarh University SGPA, CGPA & Marks Calculator
+<div align="center">
 
-[![Live Web Application](https://img.shields.io/badge/Live%20App-Online-emerald?style=for-the-badge&logo=vercel&logoColor=white)](https://cu-marks-predictor.vercel.app)
-[![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Client--Side-blue?style=for-the-badge&logo=shield&logoColor=white)](https://cu-marks-predictor.vercel.app)
-[![Target Audience](https://img.shields.io/badge/Built%20For-CU%20Students-orange?style=for-the-badge&logo=google-classroom&logoColor=white)](https://cu-marks-predictor.vercel.app)
-[![Legal & IP](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/amanjeet233)
+# CUIMS & Chandigarh University — SGPA, CGPA & Marks Predictor
 
-> **Official Student Performance Portal:** An intuitive, privacy-first academic companion engineered for students of **Chandigarh University (CU)** and the **CUIMS (Chandigarh University Information Management System)** portal. Calculate credit-weighted semester SGPA, compute multi-semester cumulative CGPA, convert marks to official percentages, and predict exact external examination marks required to hit target academic grades.
+**A privacy-first academic performance engine built specifically for students of Chandigarh University (CU).**  
+Calculate credit-weighted semester SGPA, compute multi-semester cumulative CGPA, convert marks to official percentages, and predict exact external examination targets directly in your browser.
+
+<br />
+
+[![Launch Portal](https://img.shields.io/badge/Launch%20Portal-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://cu-marks-predictor.vercel.app)
+[![SGPA & CGPA Calculator](https://img.shields.io/badge/SGPA%20%26%20CGPA%20Calculator-059669?style=for-the-badge&logo=calculator&logoColor=white)](https://cu-marks-predictor.vercel.app/quick-calculator)
+[![Internal & External Predictor](https://img.shields.io/badge/Internal%20%26%20External%20Predictor-2563EB?style=for-the-badge&logo=target&logoColor=white)](https://cu-marks-predictor.vercel.app/internal-calculator)
+
+<br />
+
+`100% Client-Side Privacy` &nbsp;&bull;&nbsp; `Zero Server Storage` &nbsp;&bull;&nbsp; `Built for Chandigarh University Students`
 
 ---
 
-## 🚀 Quick Access Links
+</div>
 
-| Portal Destination | Purpose | Direct Link |
+## Product Suite Overview
+
+| Module | Primary Capability | Direct Access |
 | :--- | :--- | :--- |
-| **All-in-One Dashboard** | Complete Academic Calculator Hub | [**cu-marks-predictor.vercel.app**](https://cu-marks-predictor.vercel.app) |
-| **Quick SGPA & CGPA Calculator** | Instant Semester SGPA, Sem 1–8 Cumulative CGPA & Percentage | [**Launch Quick Calculator →**](https://cu-marks-predictor.vercel.app/quick-calculator) |
-| **Internal Marks & Grade Predictor** | Subject-wise internal assessment evaluation & external marks forecasting | [**Launch Internal Predictor →**](https://cu-marks-predictor.vercel.app/internal-calculator) |
+| **CUIMS SGPA & Cumulative CGPA Calculator** | Instant semester SGPA calculation, Sem 1–8 multi-semester cumulative CGPA tracking, and SGPA-to-percentage conversion. | [Open Quick Calculator &rarr;](https://cu-marks-predictor.vercel.app/quick-calculator) |
+| **CUIMS Internal Marks & External Grade Predictor** | Detailed course evaluation across Theory, Lab, and Hybrid curricula. Forecasts exact external marks needed for target letter grades. | [Open Internal Predictor &rarr;](https://cu-marks-predictor.vercel.app/internal-calculator) |
+| **CUIMS SGPA to Percentage & Grade Scale** | Verified Chandigarh University 10-point credit reference scale (`O` to `F`) with standard percentage conversion metrics. | [View Grade Scale &rarr;](#chandigarh-university-cuims-grading--percentage-scale) |
 
 ---
 
-## 📌 Overview
+## Interface Showcase
 
-Academic planning at Chandigarh University requires navigating credit weightages, internal assessments (MSTs, surprise tests, quizzes, assignments), practical vivas, and end-term examinations.
-
-**CU Marks Predictor** bridges the gap between raw CUIMS figures and actionable academic targets. Whether you want to know your semester GPA right after results drop, track your aggregate degree standing, or determine the minimum score you must score on your final theory exam to safeguard an `A+` or `A` grade, this portal delivers verified, real-time computations directly inside your web browser.
-
----
-
-## ⚡ Core Features
-
-### 1. Instant CUIMS SGPA & Cumulative CGPA Calculator
-- **Semester SGPA Computation:** Calculate credit-weighted semester GPAs with real-time validation against Chandigarh University course credit structures.
-- **Multi-Semester Cumulative CGPA Engine:** Seamlessly combine your previous cumulative standing with current semester figures or calculate across Semesters 1 through 8.
-- **SGPA & CGPA to Percentage Conversion:** Automatic calculation based on the official Chandigarh University conversion standard (`Percentage = SGPA × 10`).
-
-### 2. Comprehensive Internal Marks & External Grade Predictor
-- **Multi-Year Syllabus Coverage:** Built-in support for 1st, 2nd, 3rd, and 4th Year B.E. Computer Science & Engineering (CSE) and allied disciplines.
-- **Multi-Course Component Breakdown:** Handles Theory, Practical, Hybrid, and Online courses with distinct internal component weights.
-- **Target Grade Forecasting:** Enter your ongoing internal assessment marks to receive an exact, realistic breakdown of the minimum external exam marks required to secure grades from `O` down to `P`.
-
-### 3. Smart CUIMS Auto-Fill & Document Capture
-- **Result Screenshot Auto-Fill:** Upload or paste your CUIMS semester result screenshot to automatically populate courses, credit hours, and earned letter grades in seconds.
-- **One-Click Portal Sync:** Rapid data capture designed to save students from tedious manual entry.
-
-### 4. 100% Privacy-First Architecture (Zero Server Storage)
-- **Zero Data Transmission:** All computations, image interpretations, and mark entries are processed entirely client-side inside your own browser window.
-- **No Data Retention:** No student names, Registration Numbers / UIDs, marks, or personal documents are ever transmitted to, logged on, or retained by remote servers.
-
-### 5. Responsive Design & Academic Summary Printout
-- Fully optimized for mobile phones, tablets, and desktop displays.
-- One-click print-ready summary generation for academic portfolios, mentor reviews, and personal record-keeping.
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>CUIMS SGPA & Cumulative CGPA Calculator</strong>
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/amanjeet233/cuims-sgpa-cgpa-marks-calculator/main/docs/preview-quick-calculator.png" alt="CUIMS SGPA & Cumulative CGPA Calculator" width="100%" onerror="this.src='https://placehold.co/1200x700/0f172a/f8fafc?text=CUIMS+SGPA+%26+Cumulative+CGPA+Calculator';" />
+      <!-- Drag & drop screenshot here in GitHub editor: preview-quick-calculator.png -->
+      <br />
+      <em>Real-time credit-weighted SGPA computation, semester result auto-fill, and multi-semester CGPA tracking.</em>
+    </td>
+    <td width="50%" align="center">
+      <strong>Internal Marks & External Exam Target Predictor</strong>
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/amanjeet233/cuims-sgpa-cgpa-marks-calculator/main/docs/preview-internal-predictor.png" alt="Internal Marks & External Exam Target Predictor" width="100%" onerror="this.src='https://placehold.co/1200x700/0f172a/f8fafc?text=Internal+Marks+%26+External+Exam+Target+Predictor';" />
+      <!-- Drag & drop screenshot here in GitHub editor: preview-internal-predictor.png -->
+      <br />
+      <em>Weighted internal assessment evaluation with automated external score forecasting for target grades.</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📖 Student Guide: How to Use
+## End-to-End Student Workflow
 
-### Calculating Your SGPA & Cumulative CGPA
-1. Navigate to the [Quick SGPA & CGPA Calculator](https://cu-marks-predictor.vercel.app/quick-calculator).
-2. Select your academic year or upload/paste a screenshot of your CUIMS semester grades.
-3. Review your detected subjects, credits, and grade points to instantly view your official **SGPA**, **Stated Percentage**, and **Cumulative CGPA**.
-
-### Predicting Required External Exam Marks
-1. Open the [Internal Marks & External Grade Predictor](https://cu-marks-predictor.vercel.app/internal-calculator).
-2. Choose your academic year, branch, and active subjects.
-3. Enter your current internal assessment marks (MST-1, MST-2, Quizzes, Assignments, Surprise Tests) and select your target SGPA or letter grade.
-4. Review the required external score breakdown for each subject.
+```mermaid
+flowchart LR
+    A["CUIMS Marks / Result View"] --> B["Local Screenshot Upload or Sync"]
+    B --> C["Client-Side Browser Processing"]
+    C --> D["Verified SGPA, CGPA & Percentage"]
+    C --> E["External Exam Target Marks Forecast"]
+```
 
 ---
 
-## 📊 Chandigarh University (CUIMS) Grade Point Reference
+## Core Capabilities
 
-Chandigarh University follows a 10-point letter grading system to evaluate academic performance across all undergraduate and postgraduate programs:
+- **Multi-Semester Cumulative CGPA Tracking:** Combine existing cumulative academic history with ongoing semester marks, or compute across Semesters 1 through 8 simultaneously with credit weightage.
+- **Internal-to-External Grade Prediction:** Calibrated for Chandigarh University 1st, 2nd, 3rd, and 4th Year B.E. Computer Science & Engineering (CSE) and allied engineering curricula. Accurately determines the minimum raw external marks needed in final theory and practical papers to secure grades from `O` down to `P`.
+- **Local Screenshot & Table Auto-Fill:** Upload or paste raw semester mark sheet screenshots directly into the browser to instantly populate courses, credit hours, and recorded letter grades without manual typing.
+- **Privacy-First Architecture:** All calculations, image analysis, and grade predictions are executed locally in the browser runtime. Student names, UIDs, screenshots, and internal marks are never sent to, collected by, or stored on external servers.
+- **Responsive & Print-Optimized Layout:** Designed with a clean, low-latency interface that functions smoothly across mobile devices, tablets, and desktop workstations, complete with a clean one-click summary printout.
+
+---
+
+## Chandigarh University (CUIMS) Grading & Percentage Scale
+
+Chandigarh University implements a standard 10-point credit-based grading scale for evaluating undergraduate and postgraduate performance:
 
 | Letter Grade | Performance Classification | Grade Point Value | Percentage Equivalent |
 | :---: | :---: | :---: | :---: |
@@ -81,34 +89,63 @@ Chandigarh University follows a 10-point letter grading system to evaluate acade
 | **B** | Above Average | **6.0** | 60% |
 | **C** | Average | **5.0** | 50% |
 | **P** | Marginal Pass | **4.0** | 40% |
-| **F** | Fail / Reappear | **0.0** | Below Passing Score |
+| **F** | Fail / Reappear | **0.0** | Below Passing Threshold |
 
-> **Official Percentage Note:** Chandigarh University calculates equivalent percentage directly as:  
+> **Official Percentage Standard:** As per official Chandigarh University academic regulations, the equivalent percentage is calculated as:  
 > $$\text{Equivalent Percentage (\%)} = \text{SGPA / CGPA} \times 10$$
 
 ---
 
-## 👤 Author & Maintainer
+## Frequently Asked Questions
+
+<details>
+<summary><strong>How is SGPA and cumulative CGPA computed from CUIMS result screenshots?</strong></summary>
+<br />
+Students can upload or paste an image of their official CUIMS semester result view directly into the Quick Calculator. The application reads the course titles, associated credit units, and awarded letter grades entirely inside the browser to deliver immediate, verified SGPA, multi-semester CGPA, and equivalent percentage values.
+</details>
+
+<details>
+<summary><strong>How do I convert my CUIMS SGPA or CGPA to an official percentage?</strong></summary>
+<br />
+Chandigarh University specifies a direct linear multiplier of 10 for percentage derivation. An SGPA or cumulative CGPA of 7.85 equates directly to 78.50%.
+</details>
+
+<details>
+<summary><strong>How does the Internal Marks Predictor calculate required external examination marks?</strong></summary>
+<br />
+By taking your ongoing internal assessment marks (Mid-Semester Tests, Surprise Tests, Quizzes, Assignments, and Practical evaluations), the calculator evaluates your current internal weightage against official course passing thresholds and historical grade boundary models. It then computes the exact raw score needed in your final external examination to secure your desired grade.
+</details>
+
+<details>
+<summary><strong>Are my CUIMS credentials, marks, or uploaded images sent to any server?</strong></summary>
+<br />
+No. The application is built with a zero-telemetry, client-side architectural model. All image processing, table parsing, and grade calculations happen entirely within your local browser memory. No student data ever leaves your device.
+</details>
+
+---
+
+## Author & Maintainer
 
 Designed, developed, and maintained by:
 
 **Amanjeet Kumar**  
 Department of Computer Science & Engineering  
 Chandigarh University (CU), Punjab, India  
-- **LinkedIn:** [linkedin.com/in/amanjeet233](https://www.linkedin.com/in/amanjeet233/)
+
+- **LinkedIn:** [linkedin.com/in/amanjeet233](https://www.linkedin.com/in/amanjeet233/)  
 - **GitHub:** [@amanjeet233](https://github.com/amanjeet233)  
-- **Live Portal:** [cu-marks-predictor.vercel.app](https://cu-marks-predictor.vercel.app)
+- **Live Platform:** [cu-marks-predictor.vercel.app](https://cu-marks-predictor.vercel.app)
 
 ---
 
-## ⚖️ Intellectual Property & Proprietary Rights Notice
+## Intellectual Property & Proprietary Rights Notice
 
-**Copyright © 2026 Amanjeet Kumar. All Rights Reserved.**
+**Copyright &copy; 2026 Amanjeet Kumar. All Rights Reserved.**
 
-This repository serves as official public documentation and presentation for the live **CU Marks Predictor** platform. 
+This repository serves exclusively as public showcase documentation and the official portal index for the **CU Marks Predictor** web application.
 
-The underlying application code, proprietary user interface layouts, automated extraction algorithms, and brand identity are the private intellectual property of **Amanjeet Kumar**. 
+The underlying software architecture, client-side extraction algorithms, user interface designs, and brand identity are the proprietary intellectual property of **Amanjeet Kumar**.
 
-- **No Public License:** No license (express, implied, or statutory) is granted to clone, duplicate, modify, distribute, scrape, re-host, reverse-engineer, or rebrand any component of this project or its documentation.
-- **Prohibited Use:** Any unauthorized re-hosting, commercial deployment, or public reproduction under a different name or attribution is strictly prohibited and constitutes an infringement of intellectual property rights.
-- **Reporting Issues:** To report calculation bugs or suggest feature requests for Chandigarh University syllabi, please open an issue in this showcase repository.
+- **No Public License:** No license (express, implied, or statutory) is granted to clone, duplicate, modify, distribute, scrape, re-host, reverse-engineer, or rebrand any portion of this application or its documentation.
+- **Prohibited Conduct:** Any unauthorized mirroring, third-party deployment, or publication under a different name or attribution is strictly prohibited and constitutes an infringement of intellectual property rights.
+- **Inquiries & Feedback:** For feedback, academic inquiries, or syllabus revision submissions, please open an issue in this repository.
