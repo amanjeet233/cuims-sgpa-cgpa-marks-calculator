@@ -7,11 +7,17 @@
 <br />
 
 <p align="center">
-  <a href="https://cu-marks-predictor.vercel.app"><kbd>&nbsp;&nbsp;<strong>Launch Portal &rarr;</strong>&nbsp;&nbsp;</kbd></a>
+  <a href="https://cu-marks-predictor.vercel.app">
+    <img src="https://badgen.net/badge/CUIMS/Launch%20Portal%20%E2%86%92/059669?scale=1.45" alt="Launch Portal" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://cu-marks-predictor.vercel.app/quick-calculator"><kbd>&nbsp;&nbsp;<strong>SGPA &amp; CGPA Calculator &rarr;</strong>&nbsp;&nbsp;</kbd></a>
+  <a href="https://cu-marks-predictor.vercel.app/quick-calculator">
+    <img src="https://badgen.net/badge/Calculator/SGPA%20%26%20CGPA%20%E2%86%92/2563EB?scale=1.45" alt="SGPA & CGPA Calculator" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://cu-marks-predictor.vercel.app/internal-calculator"><kbd>&nbsp;&nbsp;<strong>Internal &amp; External Predictor &rarr;</strong>&nbsp;&nbsp;</kbd></a>
+  <a href="https://cu-marks-predictor.vercel.app/internal-calculator">
+    <img src="https://badgen.net/badge/Predictor/Internal%20%26%20External%20%E2%86%92/0D9488?scale=1.45" alt="Internal & External Predictor" />
+  </a>
 </p>
 
 <p align="center">
