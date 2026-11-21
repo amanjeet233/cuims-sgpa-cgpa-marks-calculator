@@ -44,7 +44,9 @@
 Comprehensive overview giving students immediate access to the Quick SGPA calculator, CUIMS auto-collection, and the internal marks workflow.
 
 <div align="center">
-  <img src="docs/01-home-dashboard.jpg" alt="CU Marks Predictor Academic Performance Dashboard" width="100%" />
+
+<!-- Drag and drop your image here in GitHub editor: 01-home-dashboard -->
+
 </div>
 
 <br />
@@ -53,7 +55,9 @@ Comprehensive overview giving students immediate access to the Quick SGPA calcul
 Fast credit-weighted SGPA calculation featuring direct CUIMS result screenshot auto-fill, letter grade selection, and cumulative CGPA rollup.
 
 <div align="center">
-  <img src="docs/02-quick-sgpa-calculator.jpg" alt="CUIMS Quick SGPA and Cumulative CGPA Calculator" width="100%" />
+
+<!-- Drag and drop your image here in GitHub editor: 02-quick-sgpa-calculator -->
+
 </div>
 
 <br />
@@ -62,7 +66,9 @@ Fast credit-weighted SGPA calculation featuring direct CUIMS result screenshot a
 Full curriculum selector tailored for Chandigarh University engineering curricula across all 4 academic years, plus standalone calculators for Hybrid, Theory, Practical, and Online exam formats.
 
 <div align="center">
-  <img src="docs/03-internal-year-selection.jpg" alt="Curriculum and Academic Year Selection" width="100%" />
+
+<!-- Drag and drop your image here in GitHub editor: 03-internal-year-selection -->
+
 </div>
 
 <br />
@@ -71,7 +77,9 @@ Full curriculum selector tailored for Chandigarh University engineering curricul
 Clean, structured component input tracking your Mid-Semester Tests (MST-1, MST-2), Quizzes, Assignments, and Surprise Tests with live weighted totals.
 
 <div align="center">
-  <img src="docs/04-internal-marks-entry.jpg" alt="Course-Wise Internal Marks Entry" width="100%" />
+
+<!-- Drag and drop your image here in GitHub editor: 04-internal-marks-entry -->
+
 </div>
 
 <br />
@@ -80,7 +88,9 @@ Clean, structured component input tracking your Mid-Semester Tests (MST-1, MST-2
 Detailed audit table itemizing credits, obtained internal marks, maximum caps, and deduction margins before choosing your target SGPA.
 
 <div align="center">
-  <img src="docs/05-internal-breakdown-summary.jpg" alt="Internal Marks Breakdown and Audit Summary" width="100%" />
+
+<!-- Drag and drop your image here in GitHub editor: 05-internal-breakdown-summary -->
+
 </div>
 
 <br />
@@ -89,7 +99,9 @@ Detailed audit table itemizing credits, obtained internal marks, maximum caps, a
 Algorithmic grade forecasting displaying your estimated SGPA range, relative grading scenarios (Low, Normal, High), and the exact raw marks required on final external exams.
 
 <div align="center">
-  <img src="docs/06-sgpa-prediction-results.jpg" alt="Target SGPA Prediction and External Exam Requirements" width="100%" />
+
+<!-- Drag and drop your image here in GitHub editor: 06-sgpa-prediction-results -->
+
 </div>
 
 ---
