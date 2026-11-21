@@ -1,50 +1,31 @@
-<div align="center">
-
 # CUIMS & Chandigarh University
 ### SGPA, CGPA & Academic Marks Predictor
 
-**An executive academic companion engineered for students across Chandigarh University.**  
-Calculate credit-weighted semester SGPA, track multi-semester cumulative CGPA, derive verified percentage equivalencies, and forecast external examination grade boundaries—100% locally in your browser.
-
-<br />
-
-<p align="center">
-  <a href="https://cu-marks-predictor.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Portal-cu--marks--predictor.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white" alt="Live Portal" height="26" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://cu-marks-predictor.vercel.app/quick-calculator">
-    <img src="https://img.shields.io/badge/Module-SGPA_%26_CGPA_Calculator-10b981?style=flat-square&logo=speedtest&logoColor=white" alt="SGPA Calculator" height="26" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://cu-marks-predictor.vercel.app/internal-calculator">
-    <img src="https://img.shields.io/badge/Module-Internal_%26_External_Predictor-6366f1?style=flat-square&logo=target&logoColor=white" alt="Internal Predictor" height="26" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Privacy-100%25_Client--Side-334155?style=flat-square&logo=shield" alt="Privacy" />
-  <img src="https://img.shields.io/badge/Network_Payload-Zero_Server_Storage-334155?style=flat-square" alt="Zero Server Storage" />
-  <img src="https://img.shields.io/badge/Audience-Chandigarh_University_Students-334155?style=flat-square" alt="Audience" />
-</p>
-
-<br />
-
-</div>
+An executive academic companion engineered for students across Chandigarh University (CU). Calculate credit-weighted semester SGPA, track multi-semester cumulative CGPA, derive verified percentage equivalencies, and forecast external examination grade boundaries—100% locally in your browser.
 
 ---
 
-## ✦ System Architecture & Live Capabilities
+### Direct Portal Access
 
-| Product Module | Focus & Core Mechanism | Production URL |
+| Destination | Primary Feature | Link |
+| :--- | :--- | :--- |
+| **All-in-One Portal** | Complete Chandigarh University Academic Calculator Suite | [**Open Portal &rarr;**](https://cu-marks-predictor.vercel.app) |
+| **Quick SGPA & CGPA Calculator** | Instant Semester SGPA, Sem 1–8 Cumulative CGPA & Percentage | [**Launch Quick Calculator &rarr;**](https://cu-marks-predictor.vercel.app/quick-calculator) |
+| **Internal Marks & Grade Predictor** | Subject-wise internal assessment evaluation & external marks forecasting | [**Launch Target Predictor &rarr;**](https://cu-marks-predictor.vercel.app/internal-calculator) |
+
+---
+
+## System Architecture & Live Capabilities
+
+| Product Module | Focus & Core Mechanism | Production Access |
 | :--- | :--- | :--- |
 | **CUIMS SGPA & Cumulative CGPA Engine** | Computes credit-weighted SGPA from grades, supports multi-semester CGPA rollups (Semesters 1 through 8), and auto-derives official university percentage figures. | [**Open Quick Calculator &rarr;**](https://cu-marks-predictor.vercel.app/quick-calculator) |
 | **Internal Assessment & Target Forecaster** | Models course assessment components across Theory, Practical, Hybrid, and Online exam formats to calculate required raw external marks for target letter grades (`O` to `P`). | [**Open Target Predictor &rarr;**](https://cu-marks-predictor.vercel.app/internal-calculator) |
-| **Official 10-Point Credit Scale** | Standardized Chandigarh University grade point definitions, performance tiers, and linear percentage translation formula. | [**Jump to Scale &rarr;**](#-chandigarh-university-cuims-grading--percentage-scale) |
+| **Official 10-Point Credit Scale** | Standardized Chandigarh University grade point definitions, performance tiers, and linear percentage translation formula. | [**Jump to Scale &rarr;**](#chandigarh-university-cuims-grading--percentage-scale) |
 
 ---
 
-## ✦ End-to-End Workflow
+## End-to-End Workflow
 
 ```mermaid
 flowchart LR
@@ -56,7 +37,7 @@ flowchart LR
 
 ---
 
-## ✦ Key Engineering Highlights
+## Key Engineering Highlights
 
 ### 1. Multi-Semester Cumulative CGPA Rollup
 Combines historical cumulative academic records with ongoing semester credit loads. Students can project target graduation thresholds or verify multi-semester grade progression simultaneously across Semesters 1 through 8.
@@ -75,7 +56,7 @@ Built with responsive layouts optimized across mobile handsets, tablets, and hig
 
 ---
 
-## ✦ Chandigarh University (CUIMS) Grading & Percentage Scale
+## Chandigarh University (CUIMS) Grading & Percentage Scale
 
 Chandigarh University operates a standard 10-point credit grading framework for undergraduate and postgraduate degree curricula:
 
@@ -91,11 +72,11 @@ Chandigarh University operates a standard 10-point credit grading framework for 
 | **F** | Fail / Reappear | **0.0** | Below Passing Threshold |
 
 > **Official Conversion Standard:**  
-> $$\text{Equivalent Percentage (\%)} = \text{SGPA or Cumulative CGPA} \times 10$$
+> **Equivalent Percentage (%) = SGPA or Cumulative CGPA &times; 10**
 
 ---
 
-## ✦ Frequently Asked Questions
+## Frequently Asked Questions
 
 <details>
 <summary><strong>How are SGPA and cumulative CGPA derived from CUIMS result screenshots?</strong></summary>
@@ -123,7 +104,7 @@ No. The application is strictly client-side. All processing, calculations, and v
 
 ---
 
-## ✦ Author & Maintainer
+## Author & Maintainer
 
 Designed, developed, and maintained by:
 
@@ -137,7 +118,7 @@ Chandigarh University (CU), Punjab, India
 
 ---
 
-## ✦ Intellectual Property & Proprietary Rights
+## Intellectual Property & Proprietary Rights
 
 **Copyright &copy; 2026 Amanjeet Kumar. All Rights Reserved.**
 
