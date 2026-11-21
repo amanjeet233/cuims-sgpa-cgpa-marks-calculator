@@ -7,17 +7,11 @@
 <br />
 
 <p align="center">
-  <a href="https://cu-marks-predictor.vercel.app">
-    <img src="https://img.shields.io/badge/Launch_Portal-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Portal" height="34" />
-  </a>
+  <a href="https://cu-marks-predictor.vercel.app"><kbd>&nbsp;&nbsp;<strong>Launch Portal &rarr;</strong>&nbsp;&nbsp;</kbd></a>
   &nbsp;&nbsp;
-  <a href="https://cu-marks-predictor.vercel.app/quick-calculator">
-    <img src="https://img.shields.io/badge/SGPA_%26_CGPA_Calculator-059669?style=for-the-badge" alt="SGPA & CGPA Calculator" height="34" />
-  </a>
+  <a href="https://cu-marks-predictor.vercel.app/quick-calculator"><kbd>&nbsp;&nbsp;<strong>SGPA &amp; CGPA Calculator &rarr;</strong>&nbsp;&nbsp;</kbd></a>
   &nbsp;&nbsp;
-  <a href="https://cu-marks-predictor.vercel.app/internal-calculator">
-    <img src="https://img.shields.io/badge/Internal_%26_External_Predictor-2563EB?style=for-the-badge" alt="Internal & External Predictor" height="34" />
-  </a>
+  <a href="https://cu-marks-predictor.vercel.app/internal-calculator"><kbd>&nbsp;&nbsp;<strong>Internal &amp; External Predictor &rarr;</strong>&nbsp;&nbsp;</kbd></a>
 </p>
 
 <p align="center">
