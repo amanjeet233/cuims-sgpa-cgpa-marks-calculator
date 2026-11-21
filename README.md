@@ -38,26 +38,59 @@
 
 ---
 
-## Interface Showcase
+## Application Showcase & Core Views
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <strong>CUIMS SGPA &amp; Cumulative CGPA Calculator</strong>
-      <br /><br />
-      <img src="https://placehold.co/1200x700/0f172a/f8fafc.png?text=CUIMS+SGPA+%26+Cumulative+CGPA+Calculator" alt="CUIMS SGPA &amp; Cumulative CGPA Calculator" width="100%" />
-      <br />
-      <em>Real-time credit-weighted SGPA computation, semester result auto-fill, and multi-semester CGPA tracking.</em>
-    </td>
-    <td width="50%" align="center">
-      <strong>Internal Marks &amp; External Exam Target Predictor</strong>
-      <br /><br />
-      <img src="https://placehold.co/1200x700/0f172a/f8fafc.png?text=Internal+Marks+%26+External+Target+Predictor" alt="Internal Marks &amp; External Target Predictor" width="100%" />
-      <br />
-      <em>Weighted internal assessment evaluation with automated external score forecasting for target grades.</em>
-    </td>
-  </tr>
-</table>
+### 1. Academic Performance Dashboard & Navigation
+Comprehensive overview giving students immediate access to the Quick SGPA calculator, CUIMS auto-collection, and the internal marks workflow.
+
+<div align="center">
+  <img src="docs/01-home-dashboard.jpg" alt="CU Marks Predictor Academic Performance Dashboard" width="100%" />
+</div>
+
+<br />
+
+### 2. CUIMS Quick SGPA & Cumulative CGPA Calculator
+Fast credit-weighted SGPA calculation featuring direct CUIMS result screenshot auto-fill, letter grade selection, and cumulative CGPA rollup.
+
+<div align="center">
+  <img src="docs/02-quick-sgpa-calculator.jpg" alt="CUIMS Quick SGPA and Cumulative CGPA Calculator" width="100%" />
+</div>
+
+<br />
+
+### 3. Curriculum & Year Selection (1st – 4th Year B.E. CSE)
+Full curriculum selector tailored for Chandigarh University engineering curricula across all 4 academic years, plus standalone calculators for Hybrid, Theory, Practical, and Online exam formats.
+
+<div align="center">
+  <img src="docs/03-internal-year-selection.jpg" alt="Curriculum and Academic Year Selection" width="100%" />
+</div>
+
+<br />
+
+### 4. Course-Wise Internal Assessment Entry
+Clean, structured component input tracking your Mid-Semester Tests (MST-1, MST-2), Quizzes, Assignments, and Surprise Tests with live weighted totals.
+
+<div align="center">
+  <img src="docs/04-internal-marks-entry.jpg" alt="Course-Wise Internal Marks Entry" width="100%" />
+</div>
+
+<br />
+
+### 5. Internal Marks Breakdown Summary & Deduction Audit
+Detailed audit table itemizing credits, obtained internal marks, maximum caps, and deduction margins before choosing your target SGPA.
+
+<div align="center">
+  <img src="docs/05-internal-breakdown-summary.jpg" alt="Internal Marks Breakdown and Audit Summary" width="100%" />
+</div>
+
+<br />
+
+### 6. Target SGPA Prediction & External Examination Planning
+Algorithmic grade forecasting displaying your estimated SGPA range, relative grading scenarios (Low, Normal, High), and the exact raw marks required on final external exams.
+
+<div align="center">
+  <img src="docs/06-sgpa-prediction-results.jpg" alt="Target SGPA Prediction and External Exam Requirements" width="100%" />
+</div>
 
 ---
 
