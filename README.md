@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://cu-marks-predictor.vercel.app">
-    <img src="https://img.shields.io/badge/LAUNCH_PORTAL-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Portal" height="34" />
+    <img src="https://img.shields.io/badge/Launch_Portal-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Portal" height="34" />
   </a>
   &nbsp;&nbsp;
   <a href="https://cu-marks-predictor.vercel.app/quick-calculator">
-    <img src="https://img.shields.io/badge/SGPA_%26_CGPA_CALCULATOR-0f172a?style=for-the-badge&logo=calculator&logoColor=white" alt="SGPA & CGPA Calculator" height="34" />
+    <img src="https://img.shields.io/badge/SGPA_%26_CGPA_Calculator-059669?style=for-the-badge" alt="SGPA & CGPA Calculator" height="34" />
   </a>
   &nbsp;&nbsp;
   <a href="https://cu-marks-predictor.vercel.app/internal-calculator">
-    <img src="https://img.shields.io/badge/INTERNAL_%26_EXTERNAL_PREDICTOR-1e293b?style=for-the-badge&logo=target&logoColor=white" alt="Internal & External Predictor" height="34" />
+    <img src="https://img.shields.io/badge/Internal_%26_External_Predictor-2563EB?style=for-the-badge" alt="Internal & External Predictor" height="34" />
   </a>
 </p>
 
@@ -35,6 +35,29 @@
 | **CUIMS SGPA & Cumulative CGPA Calculator** | Credit-weighted semester SGPA from CU letter grades, multi-semester CGPA rollup across Semesters 1–8, and official percentage derivation from a single CUIMS result screenshot. | [Open Quick Calculator &rarr;](https://cu-marks-predictor.vercel.app/quick-calculator) |
 | **CUIMS Internal Marks & External Grade Predictor** | Course-wise internal assessment tracking for 1st–4th Year B.E. curricula to compute the exact external marks required for target CU grades (`O` through `P`). | [Open Predictor &rarr;](https://cu-marks-predictor.vercel.app/internal-calculator) |
 | **CUIMS SGPA to Percentage & Grade Scale Reference** | Standard Chandigarh University 10-point grading scale, performance tiers, and the official `SGPA × 10` percentage conversion for CUIMS results. | [View Scale &darr;](#chandigarh-university-cuims-grade-point--percentage-scale) |
+
+---
+
+## Interface Showcase
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <strong>CUIMS SGPA &amp; Cumulative CGPA Calculator</strong>
+      <br /><br />
+      <img src="https://placehold.co/1200x700/0f172a/f8fafc.png?text=CUIMS+SGPA+%26+Cumulative+CGPA+Calculator" alt="CUIMS SGPA &amp; Cumulative CGPA Calculator" width="100%" />
+      <br />
+      <em>Real-time credit-weighted SGPA computation, semester result auto-fill, and multi-semester CGPA tracking.</em>
+    </td>
+    <td width="50%" align="center">
+      <strong>Internal Marks &amp; External Exam Target Predictor</strong>
+      <br /><br />
+      <img src="https://placehold.co/1200x700/0f172a/f8fafc.png?text=Internal+Marks+%26+External+Target+Predictor" alt="Internal Marks &amp; External Target Predictor" width="100%" />
+      <br />
+      <em>Weighted internal assessment evaluation with automated external score forecasting for target grades.</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,8 +84,10 @@ flowchart LR
 
 ## Chandigarh University (CUIMS) Grade Point & Percentage Scale
 
+<div align="center">
+
 | Grade | Grade Points | Standing |
-| :---: | :---: | :--- |
+| :---: | :---: | :---: |
 | **O** | 10 | Outstanding |
 | **A+** | 9 | Excellent |
 | **A** | 8 | Very Good |
@@ -72,7 +97,12 @@ flowchart LR
 | **P** | 4 | Pass |
 | **F** | 0 | Fail |
 
-> **Percentage Conversion:** `Equivalent Percentage (%) = SGPA or CGPA × 10` — e.g., a CUIMS SGPA of 8.20 equals 82.00%, and a CU CGPA of 7.50 equals 75.00%.
+<br />
+
+> **Percentage Conversion:** `Equivalent Percentage (%) = SGPA or CGPA × 10`  
+> *e.g., a CUIMS SGPA of 8.20 equals 82.00%, and a CU CGPA of 7.50 equals 75.00%.*
+
+</div>
 
 ---
 
