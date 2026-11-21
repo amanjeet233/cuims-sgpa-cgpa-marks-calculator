@@ -45,7 +45,8 @@ Comprehensive overview giving students immediate access to the Quick SGPA calcul
 
 <div align="center">
 
-<!-- Drag and drop your image here in GitHub editor: 01-home-dashboard -->
+<img width="2560" height="1440" alt="Screenshot (2182)" src="https://github.com/user-attachments/assets/a12ea545-2935-4f00-ae36-7ea52acdf849" />
+
 
 </div>
 
@@ -56,7 +57,8 @@ Fast credit-weighted SGPA calculation featuring direct CUIMS result screenshot a
 
 <div align="center">
 
-<!-- Drag and drop your image here in GitHub editor: 02-quick-sgpa-calculator -->
+<img width="2560" height="1440" alt="Screenshot (2176)" src="https://github.com/user-attachments/assets/55299195-9147-41db-a9b2-f9844ab0f825" />
+
 
 </div>
 
@@ -67,7 +69,7 @@ Full curriculum selector tailored for Chandigarh University engineering curricul
 
 <div align="center">
 
-<!-- Drag and drop your image here in GitHub editor: 03-internal-year-selection -->
+<img width="2560" height="1440" alt="Screenshot (2175)" src="https://github.com/user-attachments/assets/cf0e3ab6-cf6d-42ab-a246-37ef79e01993" />
 
 </div>
 
@@ -78,7 +80,8 @@ Clean, structured component input tracking your Mid-Semester Tests (MST-1, MST-2
 
 <div align="center">
 
-<!-- Drag and drop your image here in GitHub editor: 04-internal-marks-entry -->
+<img width="2560" height="1440" alt="Screenshot (2180)" src="https://github.com/user-attachments/assets/098d75c7-1134-4edf-b8d3-3a2a97399d6f" />
+
 
 </div>
 
@@ -89,7 +92,9 @@ Detailed audit table itemizing credits, obtained internal marks, maximum caps, a
 
 <div align="center">
 
-<!-- Drag and drop your image here in GitHub editor: 05-internal-breakdown-summary -->
+ <img width="2560" height="1440" alt="Screenshot (2178)" src="https://github.com/user-attachments/assets/2720c245-78c5-4a66-964d-a95e88eb57ed" />
+
+
 
 </div>
 
@@ -100,7 +105,7 @@ Algorithmic grade forecasting displaying your estimated SGPA range, relative gra
 
 <div align="center">
 
-<!-- Drag and drop your image here in GitHub editor: 06-sgpa-prediction-results -->
+ <img width="2560" height="1440" alt="Screenshot (2181)" src="https://github.com/user-attachments/assets/52cf599e-51dc-426a-8538-9ba3c0912071" />
 
 </div>
 
