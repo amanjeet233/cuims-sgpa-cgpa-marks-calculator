@@ -1,23 +1,21 @@
-<div align="center">
-
 # CUIMS & Chandigarh University — SGPA, CGPA & Marks Predictor
 
 **A privacy-first academic performance engine built specifically for students of Chandigarh University (CU).**  
 Calculate credit-weighted semester SGPA, compute multi-semester cumulative CGPA, convert marks to official percentages, and predict exact external examination targets directly in your browser.
 
-<br />
+<p align="center">
+  <a href="https://cu-marks-predictor.vercel.app"><img src="https://img.shields.io/badge/Launch%20Portal-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Portal" /></a>
+  &nbsp;
+  <a href="https://cu-marks-predictor.vercel.app/quick-calculator"><img src="https://img.shields.io/badge/SGPA%20%26%20CGPA%20Calculator-059669?style=for-the-badge&logo=calculator&logoColor=white" alt="SGPA & CGPA Calculator" /></a>
+  &nbsp;
+  <a href="https://cu-marks-predictor.vercel.app/internal-calculator"><img src="https://img.shields.io/badge/Internal%20%26%20External%20Predictor-2563EB?style=for-the-badge&logo=target&logoColor=white" alt="Internal & External Predictor" /></a>
+</p>
 
-[![Launch Portal](https://img.shields.io/badge/Launch%20Portal-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://cu-marks-predictor.vercel.app)
-[![SGPA & CGPA Calculator](https://img.shields.io/badge/SGPA%20%26%20CGPA%20Calculator-059669?style=for-the-badge&logo=calculator&logoColor=white)](https://cu-marks-predictor.vercel.app/quick-calculator)
-[![Internal & External Predictor](https://img.shields.io/badge/Internal%20%26%20External%20Predictor-2563EB?style=for-the-badge&logo=target&logoColor=white)](https://cu-marks-predictor.vercel.app/internal-calculator)
-
-<br />
-
-`100% Client-Side Privacy` &nbsp;&bull;&nbsp; `Zero Server Storage` &nbsp;&bull;&nbsp; `Built for Chandigarh University Students`
+<p align="center">
+  <code>100% Client-Side Privacy</code> &bull; <code>Zero Server Storage</code> &bull; <code>Built for Chandigarh University Students</code>
+</p>
 
 ---
-
-</div>
 
 ## Product Suite Overview
 
@@ -31,26 +29,9 @@ Calculate credit-weighted semester SGPA, compute multi-semester cumulative CGPA,
 
 ## Interface Showcase
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <strong>CUIMS SGPA & Cumulative CGPA Calculator</strong>
-      <br /><br />
-      <img src="https://raw.githubusercontent.com/amanjeet233/cuims-sgpa-cgpa-marks-calculator/main/docs/preview-quick-calculator.png" alt="CUIMS SGPA & Cumulative CGPA Calculator" width="100%" onerror="this.src='https://placehold.co/1200x700/0f172a/f8fafc?text=CUIMS+SGPA+%26+Cumulative+CGPA+Calculator';" />
-      <!-- Drag & drop screenshot here in GitHub editor: preview-quick-calculator.png -->
-      <br />
-      <em>Real-time credit-weighted SGPA computation, semester result auto-fill, and multi-semester CGPA tracking.</em>
-    </td>
-    <td width="50%" align="center">
-      <strong>Internal Marks & External Exam Target Predictor</strong>
-      <br /><br />
-      <img src="https://raw.githubusercontent.com/amanjeet233/cuims-sgpa-cgpa-marks-calculator/main/docs/preview-internal-predictor.png" alt="Internal Marks & External Exam Target Predictor" width="100%" onerror="this.src='https://placehold.co/1200x700/0f172a/f8fafc?text=Internal+Marks+%26+External+Exam+Target+Predictor';" />
-      <!-- Drag & drop screenshot here in GitHub editor: preview-internal-predictor.png -->
-      <br />
-      <em>Weighted internal assessment evaluation with automated external score forecasting for target grades.</em>
-    </td>
-  </tr>
-</table>
+| CUIMS SGPA & Cumulative CGPA Calculator | Internal Marks & External Exam Target Predictor |
+| :---: | :---: |
+| **Quick SGPA & Cumulative CGPA**<br /><br />[![SGPA Calculator](https://img.shields.io/badge/Preview-Quick%20Calculator-059669?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cu-marks-predictor.vercel.app/quick-calculator)<br />*Real-time credit-weighted SGPA computation, semester result auto-fill, and multi-semester CGPA tracking.* | **Internal Assessment & Grade Targets**<br /><br />[![Internal Predictor](https://img.shields.io/badge/Preview-Internal%20Predictor-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cu-marks-predictor.vercel.app/internal-calculator)<br />*Weighted internal assessment evaluation with automated external score forecasting for target grades.* |
 
 ---
 
@@ -92,7 +73,7 @@ Chandigarh University implements a standard 10-point credit-based grading scale 
 | **F** | Fail / Reappear | **0.0** | Below Passing Threshold |
 
 > **Official Percentage Standard:** As per official Chandigarh University academic regulations, the equivalent percentage is calculated as:  
-> $$\text{Equivalent Percentage (\%)} = \text{SGPA / CGPA} \times 10$$
+> **Equivalent Percentage (%) = SGPA or CGPA &times; 10**
 
 ---
 
